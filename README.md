@@ -13,7 +13,7 @@ This project builds a deep learning pipeline to classify chest X-ray images into
 ## Datasets
 - **Kaggle Chest X-Ray Pneumonia Dataset:** https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 - **NIH Chest X-ray Dataset:** https://www.kaggle.com/datasets/nih-chest-xrays/data
-- **Cleaned Combined Dataset (Google Drive):** https://drive.google.com/file/d/13jbZEaVAWHZk246WSngMfhJ71wdLZ5mu/view?usp=drive_link
+- **Cleaned Combined Dataset (Google Drive):** https://drive.google.com/file/d/164xm5YoiixElGFi13EPt3Q8_wlREGZfd/view?usp=sharing
 
 The Kaggle dataset was already organized for pneumonia classification and contains chest X-ray images grouped into two main classes:
 - **NORMAL** = normal chest X-ray images
